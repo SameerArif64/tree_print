@@ -16,4 +16,4 @@
 You can install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/username/tree_print.git
+pip install git+https://github.com/SameerArif64/tree_print.git
